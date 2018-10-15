@@ -26,10 +26,7 @@
   </div>
    <div id="nav"><a href="home.html">home</a> | <a href="about.html">about</a> | <a
 href="menu.html">menu</a> </div>
-  <img src=http://www.malabaramericancooking.com/wp-content/uploads/2013/03/page-banner-dessert.jpg width="700px" height="200px" alt="my man Ralph"/>
-    <!--  the orginal image is 1500X1500 width and height attributes override this -->
-
-    <!--  bringing in remote image -->
+  <img src=http://www.malabaramericancooking.com/wp-content/uploads/2013/03/page-banner-dessert.jpg width="990px" height="200px" img-align: center; alt="my man Ralph"/>
 
 
   <div class="container">
@@ -39,12 +36,12 @@ href="menu.html">menu</a> </div>
 
         Our pies come fresh from only the best there is to offer. No artificial flavors included in these top secret recipes.
  We have a full menu of over 10 different original pies, 5 different ways you can get your pies breaded, 20 frosting flavors, and over 14 sides and toppings. So stroll down, have a seat, and experience the best pie.
-
+<img src="https://www.seasonedkitchen.com/wp-content/uploads/Individual-Butterscotch-Pies-www.seasonedkitchen.com_-1024x1024.jpg" width="180px" height="180px" </div>
       </div>
       <div class="col-sm-4">
         <h1>Coffee</h1>
-        No good dessert is complete without that refreshing taste of local brewed coffee. We have over 20 flavors, and a full menu of added flavors for only a small extra charge. Served freshly hot, cold or frozen! We can also add a secret ingrediant topped off with sprinkles and your choice of doughnut on the straw!
-
+        No good dessert is complete without that refreshing taste of local brewed coffee. We have over 20 flavors, and a full menu of added flavors for only a small extra charge. Served freshly hot, cold or frozen! We can also add a secret ingrediant topped off with sprinkle!
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJcJi6s_wNpnnjvEu1QU4G4zMIojtSt24ybf7ZntdBRMuQdJfghQ" width="200px" height="200px" </div>
 
       </div>
       <div class="col-sm-4">
